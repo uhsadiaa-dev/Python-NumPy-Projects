@@ -18,6 +18,7 @@ Display grades in each subject.
 Calculate grades based on average marks.
 Identify students who passed all subjects.
 Identify students who failed in any subject.
+
 📚 NumPy Concepts Used
 np.random.randint()
 np.sum()
